@@ -28,6 +28,21 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
+  <component name="RunManager">
+    <configuration name="go run main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="B3_Degiskenler_Operatorler" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go run main.go" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,5 +56,31 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="774" y="391" width="1084" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602006135345">
+      <screen x="72" y="26" width="2488" height="1414" />
+    </state>
+    <state x="774" y="391" width="1084" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.26.2488.1414/2560.0.2560.1440@72.26.2488.1414" timestamp="1602006135345" />
+    <state width="2442" height="395" key="GridCell.Tab.0.bottom" timestamp="1602009391754">
+      <screen x="72" y="26" width="2488" height="1414" />
+    </state>
+    <state width="2442" height="395" key="GridCell.Tab.0.bottom/72.26.2488.1414/2560.0.2560.1440@72.26.2488.1414" timestamp="1602009391754" />
+    <state width="2442" height="395" key="GridCell.Tab.0.center" timestamp="1602009391754">
+      <screen x="72" y="26" width="2488" height="1414" />
+    </state>
+    <state width="2442" height="395" key="GridCell.Tab.0.center/72.26.2488.1414/2560.0.2560.1440@72.26.2488.1414" timestamp="1602009391754" />
+    <state width="2442" height="395" key="GridCell.Tab.0.left" timestamp="1602009391754">
+      <screen x="72" y="26" width="2488" height="1414" />
+    </state>
+    <state width="2442" height="395" key="GridCell.Tab.0.left/72.26.2488.1414/2560.0.2560.1440@72.26.2488.1414" timestamp="1602009391754" />
+    <state width="2442" height="395" key="GridCell.Tab.0.right" timestamp="1602009391754">
+      <screen x="72" y="26" width="2488" height="1414" />
+    </state>
+    <state width="2442" height="395" key="GridCell.Tab.0.right/72.26.2488.1414/2560.0.2560.1440@72.26.2488.1414" timestamp="1602009391754" />
+    <state x="805" y="368" width="1022" height="737" key="SettingsEditor" timestamp="1602007688976">
+      <screen x="72" y="26" width="2488" height="1414" />
+    </state>
+    <state x="805" y="368" width="1022" height="737" key="SettingsEditor/72.26.2488.1414/2560.0.2560.1440@72.26.2488.1414" timestamp="1602007688976" />
   </component>
 </project>
