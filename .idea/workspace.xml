@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed689c82-dc66-4a03-95ab-72bccc0f6072" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/B3_Degiskenler_Operatorler/_5_tur_donusumu.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/_10_for_loop_2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/_11_for_loop_3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/_12_break.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/_1_tekli_if_kullanimi.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/_2_if_else_kullanimi.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/_3_if_elseif_else_kullanimi.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/_4_ozel_if_kullanimi.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/_5_degere_gore_switch_case.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/_6_ifade_kontrolsuz_switch_case.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/_7_ifadeye_ilk_deger_atayarak_switch_case.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/_8_fallthrough.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/_9_for_loop_1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/main.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kB5RRiYSSVEISXVlfsB4BoRtrc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go (1)">
+    <configuration name="go build _4_sabit_tanimlama.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gobookexamples" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/B3_Degiskenler_Operatorler/_4_sabit_tanimlama.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gobookexamples" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gobookexamples" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/B3_Degiskenler_Operatorler/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build _4_sabit_tanimlama.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed689c82-dc66-4a03-95ab-72bccc0f6072" name="Default Changelist" comment="" />
+      <created>1605161138436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605161138436</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="752" y="177" key="#GOPATH" timestamp="1605161517997">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="177" key="#GOPATH/0.0.1920.1040@0.0.1920.1040" timestamp="1605161517997" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605161609148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605161609148" />
+    <state x="740" y="224" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1605161593619">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="224" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605161593619" />
+    <state x="740" y="273" key="FileChooserDialogImpl" timestamp="1605162169065">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="273" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605162169065" />
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1605179070161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605179070161" />
+    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1605179070161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605179070161" />
+    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1605179070161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605179070161" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1605179070161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605179070161" />
+    <state x="461" y="151" key="SettingsEditor" timestamp="1605162497217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605162497217" />
+  </component>
+</project>
