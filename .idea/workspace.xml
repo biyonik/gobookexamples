@@ -20,20 +20,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed689c82-dc66-4a03-95ab-72bccc0f6072" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/B3_Degiskenler_Operatorler/_5_tur_donusumu.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/_10_for_loop_2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/_11_for_loop_3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/_12_break.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/_1_tekli_if_kullanimi.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/_2_if_else_kullanimi.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/_3_if_elseif_else_kullanimi.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/_4_ozel_if_kullanimi.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/_5_degere_gore_switch_case.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/_6_ifade_kontrolsuz_switch_case.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/_7_ifadeye_ilk_deger_atayarak_switch_case.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/_8_fallthrough.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/_9_for_loop_1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B4_Kontrol_Yapilari_Donguler/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_CompositeTypes_Diziler/_10_fonksiyona_parametre_olarak_dizi.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_CompositeTypes_Diziler/_11_fonksiyona_parametre_olarak_dizi_pointer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_CompositeTypes_Diziler/_12_slice_1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_CompositeTypes_Diziler/_13_slice_2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_CompositeTypes_Diziler/_14_sliceden_dizi_tanimlama.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_CompositeTypes_Diziler/_16_sliceden_slice_olusturma.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_CompositeTypes_Diziler/_17_make_ile_slice_olusturma.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_CompositeTypes_Diziler/_18_copy_ile_slice_kopyalama.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_CompositeTypes_Diziler/_19_append_ile_eleman_ekleme.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_CompositeTypes_Diziler/_1_dizi_tanimlama.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_CompositeTypes_Diziler/_20_sliceler_iteratif_islemler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_CompositeTypes_Diziler/_21_cok_boyutlu_sliceler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_CompositeTypes_Diziler/_22_fonksiyona_slice_parametre_gonderme.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_CompositeTypes_Diziler/_23_map.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_CompositeTypes_Diziler/_24_make_ile_map_tanimlama.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_CompositeTypes_Diziler/_25_append_ile_map_eleman_ekleme.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_CompositeTypes_Diziler/_2_ilk_deger_atamasi_ile_dizi.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_CompositeTypes_Diziler/_3_iteratif_erisim_1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_CompositeTypes_Diziler/_4_iteratif_erisim_2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_CompositeTypes_Diziler/_5_range_kullanimi.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_CompositeTypes_Diziler/_6_range_kullanimi_2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_CompositeTypes_Diziler/_7_multi_dimension_arr.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_CompositeTypes_Diziler/_8_multi_dimension_arr_2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B5_CompositeTypes_Diziler/_9_multi_dimension_arr_3.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +85,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go (1)">
+  <component name="RunManager" selected="Go Build.go build main.go (2)">
     <configuration name="go build _4_sabit_tanimlama.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gobookexamples" />
       <working_directory value="$PROJECT_DIR$" />
@@ -91,6 +102,14 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gobookexamples" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/B5_CompositeTypes_Diziler/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="gobookexamples" />
       <working_directory value="$PROJECT_DIR$" />
@@ -101,6 +120,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go (2)" />
         <item itemvalue="Go Build.go build main.go (1)" />
         <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build _4_sabit_tanimlama.go" />
@@ -131,6 +151,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="752" y="177" key="#GOPATH" timestamp="1605161517997">
@@ -145,29 +166,37 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="224" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605161593619" />
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1607426490264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607426490264" />
     <state x="740" y="273" key="FileChooserDialogImpl" timestamp="1605162169065">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="273" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605162169065" />
-    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1605179070161">
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1607502923165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605179070161" />
-    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1605179070161">
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607502923165" />
+    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1607502923165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605179070161" />
-    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1605179070161">
+    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607502923165" />
+    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1607502923165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605179070161" />
-    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1605179070161">
+    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607502923165" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1607502923165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605179070161" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607502923165" />
     <state x="461" y="151" key="SettingsEditor" timestamp="1605162497217">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605162497217" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605254541723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605254541723" />
   </component>
 </project>
